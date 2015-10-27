@@ -1,0 +1,44 @@
+@import 'reset.css';
+
+html {
+	background-color: #000000;
+}
+
+body {
+	margin: 25px;
+	background-color: black;
+}
+
+	.nav {
+		font-family: 'Playfair Display', serif;
+		color: #4527A0;
+	}
+
+
+nav li {
+	display: inline-block;
+	margin: 10px;
+	font-size: 25px;
+}
+
+header {
+	font-size: 100px;
+	color: #FFC971;
+	font-weight: bold;
+	font-family: 'Playfair Display', serif;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+	color: #000;
+	margin: 45px;
+	font-weight: bold;
+}
+
+section {
+	background-color: #D50000;
+}
+
+footer {
+	background-color: #424242;
+}
