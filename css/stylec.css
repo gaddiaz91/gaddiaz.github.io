@@ -1,17 +1,17 @@
 @import 'reset.css';
 
 html {
-	background-color: #000000;
+	background-image: url("http://www.ewallpapers.eu/w_show/blood-stain-1920-1080-6378.jpg");
 }
 
 body {
 	margin: 25px;
-	background-color: black;
+	background-color: transparent;
 }
 
 	.nav {
 		font-family: 'Playfair Display', serif;
-		color: #4527A0;
+		color: #000;
 	}
 
 
@@ -19,6 +19,7 @@ nav li {
 	display: inline-block;
 	margin: 10px;
 	font-size: 25px;
+	color: #000;
 }
 
 header {
@@ -37,6 +38,7 @@ p {
 
 section {
 	background-color: #D50000;
+
 }
 
 footer {
